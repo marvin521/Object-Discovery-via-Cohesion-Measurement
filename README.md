@@ -7,7 +7,7 @@ Color-name feature integration and model updating scheme:
 (CVPR), 2006.
 
 
-Codes above are integrated and modified by Dafei Huang.
+Codes above are integrated and modified by Guanjun Guo.
 
 Quick Start Guide:
 Running the "demo.m" in Matlab
