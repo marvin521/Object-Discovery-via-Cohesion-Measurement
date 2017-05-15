@@ -2,7 +2,6 @@ This is implementation code of the object disovery method presented in:
 [1] G. Guo, H. Wang, W. L. Zhao, Y. Yan, and X. Li. Object discovery via cohesion measurement. IEEE Trans. on Cybernetics (TCYB), 1(99):1-14, 2017.
 
 The implementation is built upon:
-Color-name feature integration and model updating scheme:
 [2] A. Levin, D. Lischinski, and Y. Weiss, a closed form solution to natural image matting, in Proc. IEEE Conf. Comput. Vis. Pattern Recognit.
 (CVPR), 2006.
 

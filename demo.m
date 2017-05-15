@@ -6,6 +6,7 @@ imgSupremum=120;
 [img,imSZ]=readImage(imgPath,imgSupremum);
 figure;
 colNum=1;
+vecNum=1;
 subplot(colNum,vecNum+1,1);
 imshow(img);
 title('Original img');
@@ -16,7 +17,7 @@ catch
     [eigenVectors,eigenValues]=eigs(L,6,'LR',opts);
 end
 vecNum=size(eigenVectors,2);
-%vecNum=1;
+
 
 %%%%%%%%%%%% show the eigenvectors %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 for i=1:vecNum
