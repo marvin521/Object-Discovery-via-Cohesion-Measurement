@@ -5,6 +5,7 @@ The implementation is built upon:
 [2] A. Levin, D. Lischinski, and Y. Weiss, a closed form solution to natural image matting, in Proc. IEEE Conf. Comput. Vis. Pattern Recognit.
 (CVPR), 2006.
 
+Several Video Demos are avaliable at: https://pan.baidu.com/s/1739rcV1PkEdEktYvnRVOBA
 
 Codes above are integrated and modified by Guanjun Guo.
 
@@ -27,6 +28,7 @@ pages={1-14},
 doi={10.1109/TCYB.2017.2661995}, 
 ISSN={2168-2267}, 
 }
+
 
 
 
